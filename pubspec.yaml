@@ -1,0 +1,16 @@
+name: shared_interfaces
+description: Shared interfaces
+version: 0.0.1
+repository: https://github.com/vowdemon/shared_interfaces
+
+environment:
+  sdk: ^3.0.0
+
+# Add regular dependencies here.
+dependencies:
+  path: ^1.0.0
+  meta: ^1.0.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
